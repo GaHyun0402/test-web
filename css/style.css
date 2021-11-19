@@ -1,2 +1,4 @@
 .test1 { color: red;}
-.test2 { color: yellow;}
+.test2 { color: yellow; background-color: #000;}
+.test3 { font-size: 40px;}
+.test4 { font-size: 20px; color: blue;}
